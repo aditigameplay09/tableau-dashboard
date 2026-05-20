@@ -55,11 +55,7 @@ This dashboard explores hotel and traveler data including:
 1. Download `dashboard.twbx`
 2. Open with Tableau Public (free) — [Download here](https://public.tableau.com/en-us/s/download)
 
-**Or view it live here:** [Tableau Public Link]([#](https://public.tableau.com/app/profile/aditi.kunthewar/viz/tripadviserdashboard/Dashboard1)) ← paste your link here
+**Or view it live here:** [Tableau Public Link](https://public.tableau.com/app/profile/aditi.kunthewar/viz/tripadviserdashboard/Dashboard1)
 
 ---
 
-## 👤 Author
-
-**Your Name**  
-[LinkedIn](#) | [GitHub](#)
